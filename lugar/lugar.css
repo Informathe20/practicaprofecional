@@ -1,0 +1,30 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: century gothic;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+}
+body{
+	background-color:#2b557d;
+}
+header h1{
+text-align: center; 
+color: #ffffff;
+font-size: 40px;
+}
+.piedepagina {
+	background-color: #87ceeb;
+	margin-top: 100px;
+	text-align:center ;
+ color: #ccc;
+ font-size:20px ;
+ font-family:'Gill Sans Ultra Bold' ;
+ margin:15px ;   
+ max-width:100%;
+
+}
+.piedepagina p {
+	padding: 100px;
+}

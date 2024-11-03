@@ -1,0 +1,24 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: century gothic;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+}
+body{
+	background-color: #cb8812;
+}
+.piedepagina {
+	background-color: #747474;
+	margin-top: 100px;
+	text-align:center ;
+ text-decoration-color: #ffffff;
+ font-size:20px ;
+ margin:15px ;   
+ max-width:100%;
+
+}
+.piedepagina p {
+	padding: 100px;
+}
